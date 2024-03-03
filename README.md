@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# deployguru-learning-dg-lab12-automatic_backup_script-elie-bamunoba
+<
+
+# dg-lab12-elie-bamunoba
 This Python script performs automatic backups of a specified directory and sends notifications via email and Slack upon completion.
 =======
 README_CONTENT = """
@@ -45,4 +46,4 @@ This Python script performs automatic backups of a specified directory and sends
 ## Contact
 For any issues or questions, please contact Elie at eliebamunoba@gmail.com
 """
->>>>>>> 5189818 (readme file)
+
