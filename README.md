@@ -1,5 +1,5 @@
 # dg-lab12-elie-bamunoba
-This Python script performs automatic backups of a specified directory and sends notifications via email and Slack upon completion.
+##This Python script performs automatic backups of a specified directory and sends notifications via email and Slack upon completion.
 =======
 README_CONTENT = """
 # Backup Script README
