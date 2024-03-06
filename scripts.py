@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-=======
 import os, shutil,  smtplib,  requests,  json, csv, logging
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-
 
 
 # Email Notification method
@@ -116,7 +113,6 @@ def create_backup(source_dir="/var/www/html", dest_dir="/opt/backups"):
         print(f"Error: {e}")
 
 
->>>>>>> 5035f33 (script)
 if __name__ == "__main__":
     create_backup()
 
